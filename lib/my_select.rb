@@ -7,5 +7,5 @@ def my_select(collection)
   my_array << var
   i += 1
  end
- ,my_array
+ my_array
 end
